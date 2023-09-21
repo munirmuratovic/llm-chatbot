@@ -1,1 +1,1 @@
-wget https://huggingface.co/TheBloke/Llama2-7B-Chat-GGML/resolve/main/llama2-2b-chat-ggmlv3.q4_0.bin
+wget https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q3_K_M.bin
